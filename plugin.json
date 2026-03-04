@@ -1,0 +1,11 @@
+{
+  "name": "copilot-cli-reference",
+  "description": "Skills for GitHub Copilot CLI plugin management and configuration",
+  "version": "1.0.0",
+  "author": {
+    "name": "GitHub Copilot"
+  },
+  "license": "MIT",
+  "keywords": ["copilot", "cli", "plugins", "marketplace"],
+  "skills": "skills/"
+}
